@@ -1,4 +1,4 @@
-# Prompts utilizados com o ChatGPT para análise dos dados contidos nas planilha .CSV
+# Prompts utilizados com o ChatGPT para análise dos dados contidos nas planilhas .CSV
 
 - Qual o produto mais vendido por país?
 - Qual a idade dos consumidores do produto mais vendido por país?
